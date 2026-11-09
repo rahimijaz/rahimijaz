@@ -10,9 +10,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rahimijaz&label=Fans&color=ff9ecd&style=flat-square)
-[![Followers](https://img.shields.io/github/followers/rahimijaz?label=Nakama&style=flat-square&logo=github&color=b388ff)](https://github.com/rahimijaz?tab=followers)
-[![Stars](https://img.shields.io/github/stars/rahimijaz?label=Stars&style=flat-square&logo=github&color=6a4cff)](https://github.com/rahimijaz?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/rahimijaz?label=Nakama&style=flat-square&logo=github&color=b388ff&labelColor=1a1033)](https://github.com/rahimijaz?tab=followers)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frahimijaz&query=%24.public_repos&label=Quests&style=flat-square&logo=github&color=ff9ecd&labelColor=1a1033)](https://github.com/rahimijaz?tab=repositories)
 
 <!-- 🎴 Optional: drop your favorite anime gif/image here
 <img src="YOUR-GIF-URL" width="320" alt="anime" />
@@ -52,31 +51,36 @@
 
 ---
 
-## 📊 &nbsp;Power Level
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahimijaz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=ff9ecd&text_color=e0d4ff&icon_color=b388ff&bg_color=1a1033" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimijaz&layout=compact&hide_border=true&langs_count=8&title_color=ff9ecd&text_color=e0d4ff&bg_color=1a1033" alt="top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=rahimijaz&hide_border=true&background=1A1033&stroke=B388FF&ring=FF9ECD&fire=FF9ECD&currStreakNum=E0D4FF&sideNums=E0D4FF&currStreakLabel=FF9ECD&sideLabels=B388FF&dates=B388FF" alt="streak" />
-
-</div>
-
----
-
 ## 🗡️ &nbsp;Quests &nbsp;·&nbsp; Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/rahimijaz/personal-wardrobe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahimijaz&repo=personal-wardrobe&hide_border=true&title_color=ff9ecd&text_color=e0d4ff&icon_color=b388ff&bg_color=1a1033" alt="personal-wardrobe" />
-</a>
-<a href="https://github.com/rahimijaz/family-gallery">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahimijaz&repo=family-gallery&hide_border=true&title_color=ff9ecd&text_color=e0d4ff&icon_color=b388ff&bg_color=1a1033" alt="family-gallery" />
-</a>
+<table>
+<tr>
+<td align="center" width="50%">
+<br/>
+<a href="https://github.com/rahimijaz/personal-wardrobe"><b>👘 personal-wardrobe</b></a>
+<br/><br/>
+<img src="https://img.shields.io/github/stars/rahimijaz/personal-wardrobe?style=flat-square&logo=github&color=ff9ecd&labelColor=1a1033" alt="stars" />
+<img src="https://img.shields.io/github/forks/rahimijaz/personal-wardrobe?style=flat-square&logo=github&color=b388ff&labelColor=1a1033" alt="forks" />
+<br/>
+<img src="https://img.shields.io/github/languages/top/rahimijaz/personal-wardrobe?style=flat-square&color=6a4cff&labelColor=1a1033" alt="language" />
+<img src="https://img.shields.io/github/last-commit/rahimijaz/personal-wardrobe?style=flat-square&color=ff9ecd&labelColor=1a1033" alt="last commit" />
+<br/><br/>
+</td>
+<td align="center" width="50%">
+<br/>
+<a href="https://github.com/rahimijaz/family-gallery"><b>📸 family-gallery</b></a>
+<br/><br/>
+<img src="https://img.shields.io/github/stars/rahimijaz/family-gallery?style=flat-square&logo=github&color=ff9ecd&labelColor=1a1033" alt="stars" />
+<img src="https://img.shields.io/github/forks/rahimijaz/family-gallery?style=flat-square&logo=github&color=b388ff&labelColor=1a1033" alt="forks" />
+<br/>
+<img src="https://img.shields.io/github/languages/top/rahimijaz/family-gallery?style=flat-square&color=6a4cff&labelColor=1a1033" alt="language" />
+<img src="https://img.shields.io/github/last-commit/rahimijaz/family-gallery?style=flat-square&color=ff9ecd&labelColor=1a1033" alt="last commit" />
+<br/><br/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -130,7 +134,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahimijaz&bg_color=1a1033&color=ff9ecd&line=b388ff&point=ffffff&area_color=b388ff&area=true&hide_border=true&title_color=ff9ecd" alt="activity graph" width="100%" />
+<img src="https://ghchart.rshah.org/b388ff/rahimijaz" alt="rahimijaz's contribution chart" width="100%" />
+
+<sub>🌸 every square is a day of training 🌸</sub>
 
 </div>
 
@@ -148,8 +154,6 @@
 <br/>
 
 🌸 *"Hard work beats talent when talent doesn't work hard."* 🌸
-
-<sub>⭐ Drop a star if you enjoyed the journey ⭐</sub>
 
 </div>
 
