@@ -60,92 +60,119 @@ class Rahim:
 
 ---
 
-## 🗡️ &nbsp;Quests &nbsp;·&nbsp; Featured Projects
+## 🗡️ &nbsp;Guild Quest Board
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="50%">
-<br/>
-<a href="https://github.com/rahimijaz/personal-wardrobe"><b>👘 personal-wardrobe</b></a>
-<br/><br/>
+<td width="50%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/QUEST_01-S--RANK-ff9ecd?style=for-the-badge&labelColor=1a1033" alt="Quest 01 S-Rank" />
+
+<h3>👘 personal-wardrobe</h3>
+<i>your closet, digitized</i>
+
+<p>Organize your clothes, plan outfits, and always know what you own.</p>
+
+<img src="https://img.shields.io/badge/ADD_YOUR_STACK-6a4cff?style=flat-square" alt="stack" /><br/><br/>
 <img src="https://img.shields.io/github/stars/rahimijaz/personal-wardrobe?style=flat-square&logo=github&color=ff9ecd&labelColor=1a1033" alt="stars" />
-<img src="https://img.shields.io/github/forks/rahimijaz/personal-wardrobe?style=flat-square&logo=github&color=b388ff&labelColor=1a1033" alt="forks" />
-<br/>
-<img src="https://img.shields.io/github/languages/top/rahimijaz/personal-wardrobe?style=flat-square&color=6a4cff&labelColor=1a1033" alt="language" />
-<img src="https://img.shields.io/github/last-commit/rahimijaz/personal-wardrobe?style=flat-square&color=ff9ecd&labelColor=1a1033" alt="last commit" />
+<img src="https://img.shields.io/github/last-commit/rahimijaz/personal-wardrobe?style=flat-square&color=b388ff&labelColor=1a1033" alt="last commit" />
 <br/><br/>
+
+<a href="https://github.com/rahimijaz/personal-wardrobe"><img src="https://img.shields.io/badge/ACCEPT_QUEST-1a1033?style=for-the-badge&logo=github&logoColor=ff9ecd" alt="repo" /></a>
+<a href="https://YOUR-DEMO-LINK.com"><img src="https://img.shields.io/badge/LIVE_DEMO-b388ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="demo" /></a>
+
+<details>
+<summary>📜 <b>Mission briefing</b></summary>
+<br/>
+<div align="left">
+<ul>
+<li><b>Objective:</b> catalog clothes, browse by category, build outfits</li>
+<li><b>Difficulty:</b> ⭐⭐⭐</li>
+<li><b>Status:</b> in progress ⚔️</li>
+<li><b>Loot:</b> add key features here</li>
+</ul>
+</div>
+</details>
+
 </td>
-<td align="center" width="50%">
-<br/>
-<a href="https://github.com/rahimijaz/family-gallery"><b>📸 family-gallery</b></a>
-<br/><br/>
+<td width="50%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/QUEST_02-A--RANK-b388ff?style=for-the-badge&labelColor=1a1033" alt="Quest 02 A-Rank" />
+
+<h3>📸 family-gallery</h3>
+<i>memories, in one place</i>
+
+<p>A private-feeling photo gallery to keep and browse family memories.</p>
+
+<img src="https://img.shields.io/badge/ADD_YOUR_STACK-6a4cff?style=flat-square" alt="stack" /><br/><br/>
 <img src="https://img.shields.io/github/stars/rahimijaz/family-gallery?style=flat-square&logo=github&color=ff9ecd&labelColor=1a1033" alt="stars" />
-<img src="https://img.shields.io/github/forks/rahimijaz/family-gallery?style=flat-square&logo=github&color=b388ff&labelColor=1a1033" alt="forks" />
-<br/>
-<img src="https://img.shields.io/github/languages/top/rahimijaz/family-gallery?style=flat-square&color=6a4cff&labelColor=1a1033" alt="language" />
-<img src="https://img.shields.io/github/last-commit/rahimijaz/family-gallery?style=flat-square&color=ff9ecd&labelColor=1a1033" alt="last commit" />
+<img src="https://img.shields.io/github/last-commit/rahimijaz/family-gallery?style=flat-square&color=b388ff&labelColor=1a1033" alt="last commit" />
 <br/><br/>
+
+<a href="https://github.com/rahimijaz/family-gallery"><img src="https://img.shields.io/badge/ACCEPT_QUEST-1a1033?style=for-the-badge&logo=github&logoColor=ff9ecd" alt="repo" /></a>
+<a href="https://YOUR-DEMO-LINK.com"><img src="https://img.shields.io/badge/LIVE_DEMO-b388ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="demo" /></a>
+
+<details>
+<summary>📜 <b>Mission briefing</b></summary>
+<br/>
+<div align="left">
+<ul>
+<li><b>Objective:</b> upload, organize, and browse family photos</li>
+<li><b>Difficulty:</b> ⭐⭐⭐</li>
+<li><b>Status:</b> in progress ⚔️</li>
+<li><b>Loot:</b> add key features here</li>
+</ul>
+</div>
+</details>
+
 </td>
 </tr>
 </table>
 
 </div>
 
-<br/>
-
-<details>
-<summary><b>👘 &nbsp;Quest 01 · personal-wardrobe</b> &nbsp;·&nbsp; <i>your closet, digitized</i> &nbsp;<kbd>click to open the scroll</kbd></summary>
-
-<br/>
-
-> A personal wardrobe app to organize clothes, plan outfits, and always know what you own.
-
-| | |
-|---|---|
-| **Objective** | Catalog your clothes, browse by category, and put together outfits |
-| **Weapons (Stack)** | ![Stack](https://img.shields.io/badge/ADD_YOUR_STACK-6a4cff?style=flat-square) |
-| **Difficulty** | ⭐⭐⭐ |
-| **Status** | ![Status](https://img.shields.io/badge/quest-in_progress-ff9ecd?style=flat-square) |
-
-[![Repo](https://img.shields.io/badge/View_Repo-1a1033?style=for-the-badge&logo=github&logoColor=ff9ecd)](https://github.com/rahimijaz/personal-wardrobe)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-b388ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-DEMO-LINK.com)
-
-<!-- <img src="https://raw.githubusercontent.com/rahimijaz/personal-wardrobe/main/screenshot.png" width="100%" alt="preview" /> -->
-
-</details>
-
-<details>
-<summary><b>📸 &nbsp;Quest 02 · family-gallery</b> &nbsp;·&nbsp; <i>memories, in one place</i> &nbsp;<kbd>click to open the scroll</kbd></summary>
-
-<br/>
-
-> A private-feeling photo gallery to keep and browse family memories.
-
-| | |
-|---|---|
-| **Objective** | Upload, organize, and browse family photos in a clean gallery |
-| **Weapons (Stack)** | ![Stack](https://img.shields.io/badge/ADD_YOUR_STACK-6a4cff?style=flat-square) |
-| **Difficulty** | ⭐⭐⭐ |
-| **Status** | ![Status](https://img.shields.io/badge/quest-in_progress-ff9ecd?style=flat-square) |
-
-[![Repo](https://img.shields.io/badge/View_Repo-1a1033?style=for-the-badge&logo=github&logoColor=ff9ecd)](https://github.com/rahimijaz/family-gallery)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-b388ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-DEMO-LINK.com)
-
-<!-- <img src="https://raw.githubusercontent.com/rahimijaz/family-gallery/main/screenshot.png" width="100%" alt="preview" /> -->
-
-</details>
-
 ---
 
-## 📈 &nbsp;Training Log
+## ♟️ &nbsp;Chess Corner
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/b388ff/rahimijaz" alt="rahimijaz's contribution chart" width="100%" />
+```
+    a  b  c  d  e  f  g  h
+ 8  ♜  ·  ♝  ♛  ♚  ♝  ♞  ♜   8
+ 7  ♟  ♟  ♟  ♟  ·  ♟  ♟  ♟   7
+ 6  ·  ·  ♞  ·  ·  ·  ·  ·   6
+ 5  ·  ·  ·  ·  ♟  ·  ·  ·   5
+ 4  ·  ·  ♗  ·  ♙  ·  ·  ·   4
+ 3  ·  ·  ·  ·  ·  ♘  ·  ·   3
+ 2  ♙  ♙  ♙  ♙  ·  ♙  ♙  ♙   2
+ 1  ♖  ♘  ♗  ♕  ♔  ·  ·  ♖   1
+    a  b  c  d  e  f  g  h
+```
 
-<sub>🌸 every square is a day of training 🌸</sub>
+<sub>Position of the day: Italian Game · 1.e4 e5 2.Nf3 Nc6 3.Bc4</sub>
+
+<br/>
+
+[![Chess.com](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2FYOUR-CHESSCOM-USERNAME%2Fstats&query=%24.chess_rapid.last.rating&label=Rapid&style=for-the-badge&logo=chessdotcom&logoColor=white&color=b388ff&labelColor=1a1033)](https://www.chess.com/member/YOUR-CHESSCOM-USERNAME)
+[![Lichess](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Flichess.org%2Fapi%2Fuser%2FYOUR-LICHESS-USERNAME&query=%24.perfs.rapid.rating&label=Lichess&style=for-the-badge&logo=lichess&logoColor=white&color=ff9ecd&labelColor=1a1033)](https://lichess.org/@/YOUR-LICHESS-USERNAME)
+
+</div>
+
+---
+
+## 📺 &nbsp;Anime Watchlist
+
+<div align="center">
+
+| 🔥 Currently Watching | 🏆 All-Time Favorite | 📌 Up Next |
+|:---:|:---:|:---:|
+| `YOUR-ANIME` | `YOUR-FAVORITE` | `YOUR-NEXT-PICK` |
+
+[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-b388ff?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/YOUR-MAL-USERNAME)
+[![AniList](https://img.shields.io/badge/AniList-ff9ecd?style=for-the-badge&logo=anilist&logoColor=1a1033)](https://anilist.co/user/YOUR-ANILIST-USERNAME)
 
 </div>
 
