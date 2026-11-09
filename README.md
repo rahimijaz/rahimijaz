@@ -33,7 +33,7 @@
 
 ## 🌙 About Me
 
-```python
+
 class Rahim:
     def __init__(self):
         self.name = "Muhammad Rahim Ijaz"
@@ -170,4 +170,4 @@ A personal family photo gallery exploring intelligent photo organization, face-b
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:54256f,50:241044,100:090014&height=130&section=footer" width="100%" />
-```
+
