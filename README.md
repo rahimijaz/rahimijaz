@@ -67,7 +67,7 @@ class Rahim:
 <td width="50%" valign="top">
 
 <h3>👕 personal-wardrobe</h3>
-<p>Organize clothes, plan outfits, and track your wardrobe.</p>
+<p>Organize your clothes, plan outfits, and always know what you own.</p>
 <img src="https://img.shields.io/github/languages/top/rahimijaz/personal-wardrobe?style=flat-square&color=6a4cff&labelColor=1a1033" alt="language" />
 <img src="https://img.shields.io/github/last-commit/rahimijaz/personal-wardrobe?style=flat-square&color=b388ff&labelColor=1a1033" alt="last commit" />
 <br/><br/>
@@ -77,7 +77,7 @@ class Rahim:
 <td width="50%" valign="top">
 
 <h3>📸 family-gallery</h3>
-<p>A private photo gallery to keep and browse family memories.</p>
+<p>Store family memories, browse photos, and relive special moments.</p>
 <img src="https://img.shields.io/github/languages/top/rahimijaz/family-gallery?style=flat-square&color=6a4cff&labelColor=1a1033" alt="language" />
 <img src="https://img.shields.io/github/last-commit/rahimijaz/family-gallery?style=flat-square&color=b388ff&labelColor=1a1033" alt="last commit" />
 <br/><br/>
