@@ -1,109 +1,173 @@
-```html
+
+<!-- ================= HEADER ================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:241044,100:54256f&height=220&section=header&text=Rahim%20Ijaz&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20%7C%20Developer%20%7C%20Creator&descAlignY=60&descSize=18" width="100%" />
+
 <div align="center">
 
-# Muhammad Rahim Ijaz
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+corner+of+GitHub+%E2%9C%A8;Building+ideas+into+reality;Exploring+AI+%26+Software+Engineering;One+commit+at+a+time+%F0%9F%9A%80" />
 
-### AI Student · Developer · Builder
+<br/>
 
-*Turning ideas into software that actually matters.*
+<img src="https://komarev.com/ghpvc/?username=rahimijaz&label=PROFILE+VIEWS&color=9D4EDD&style=for-the-badge" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-rahimijaz-181717?style=for-the-badge&logo=github)](https://github.com/rahimijaz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammad-rahim-ijaz-03a59a2b4)
+<a href="https://github.com/rahimijaz?tab=followers">
+<img src="https://img.shields.io/github/followers/rahimijaz?style=for-the-badge&color=7B2CBF&label=FOLLOWERS" />
+</a>
+
+<a href="https://github.com/rahimijaz?tab=repositories">
+<img src="https://img.shields.io/github/stars/rahimijaz?style=for-the-badge&color=C77DFF&label=STARS" />
+</a>
+
+<br/><br/>
+
+**「 創造 · 探索 · 成長 」**
+
+*Create. Explore. Evolve.*
 
 </div>
 
 ---
 
-## `whoami`
+<!-- ================= ABOUT ================= -->
+
+## 🌙 About Me
 
 ```python
 class Rahim:
-    education = "BS Artificial Intelligence @ FAST-NUCES"
-    interests = ["AI", "Software Engineering", "Computer Vision"]
-    philosophy = "Build things that solve real problems."
-    currently = "Turning ideas into projects."
-```
+    def __init__(self):
+        self.name = "Muhammad Rahim Ijaz"
+        self.education = "BS Artificial Intelligence @ FAST-NUCES"
+        self.interests = [
+            "Artificial Intelligence",
+            "Software Engineering",
+            "Web Development",
+            "Computer Vision"
+        ]
+        self.current_goal = "Building meaningful projects"
 
-I enjoy building practical software, experimenting with AI, and exploring how intelligent systems can make everyday experiences better.
+    def motto(self):
+        return "Stay curious. Keep building."
+
+
+- 🎓 Studying **Artificial Intelligence at FAST-NUCES**
+- 🤖 Interested in AI, machine learning & computer vision
+- 💻 Building full-stack applications and experimenting with new technologies
+- 🎨 Interested in creative technology, anime & gaming
+- 🚀 Always learning, experimenting and building something new
 
 ---
 
-## `featured projects`
+<!-- ================= PROJECTS ================= -->
+
+## ⚡ Featured Projects
 
 <div align="center">
+
+### 01 — Personal Wardrobe 👕
 
 <a href="https://github.com/rahimijaz/personal-wardrobe">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rahimijaz&repo=personal-wardrobe&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rahimijaz&repo=personal-wardrobe&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
+
+**Your wardrobe, reimagined.**
+
+A privacy-focused virtual wardrobe project exploring AI-powered virtual try-on and digital fashion experiences.
+
+`AI` `Computer Vision` `Virtual Try-On` `Privacy`
+
+[⛩️ Explore Repository](https://github.com/rahimijaz/personal-wardrobe)
+
+<br/>
+
+### 02 — Family Gallery 🖼️
 
 <a href="https://github.com/rahimijaz/family-gallery">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rahimijaz&repo=family-gallery&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rahimijaz&repo=family-gallery&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
-</div>
+**Memories, organized intelligently.**
 
-### 👕 Personal Wardrobe
+A personal family photo gallery exploring intelligent photo organization, face-based grouping and private memory management.
 
-**Your wardrobe. Your style. Your privacy.**
+`AI` `Image Processing` `Photo Management` `Privacy`
 
-A personal virtual wardrobe project exploring AI-powered virtual try-on and digital clothing experiences.
-
-- 👔 Virtual clothing & wardrobe management
-- 🤖 AI-powered virtual try-on experimentation
-- 🔒 Privacy-focused, local-first approach
-
-[**Explore Repository →**](https://github.com/rahimijaz/personal-wardrobe)
-
-### 🖼️ Family Gallery
-
-**Your memories. Organized intelligently.**
-
-An AI-powered family photo organizer designed to make managing and discovering personal memories easier.
-
-- 🧠 AI-powered face detection & clustering
-- 🔍 Intelligent photo organization and filtering
-- 🔐 Privacy-first local photo management
-- 📱 Responsive gallery with slideshow & zoom
-
-[**Explore Repository →**](https://github.com/rahimijaz/family-gallery)
-
----
-
-## `tech stack`
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+[⛩️ Explore Repository](https://github.com/rahimijaz/family-gallery)
 
 </div>
 
 ---
 
-## `github stats`
+<!-- ================= TECH STACK ================= -->
+
+## 🛠️ Arsenal / Tech Stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rahimijaz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+### Languages
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimijaz&layout=compact&theme=tokyonight&hide_border=true" />
+### Development
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,github,vscode" />
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahimijaz&theme=tokyonight&hide_border=true" />
+### AI / Machine Learning
+<img src="https://skillicons.dev/icons?i=pytorch" />
 
 </div>
 
 ---
 
+<!-- ================= STATS ================= -->
+
+## 📊 GitHub Statistics
+
 <div align="center">
 
-### *Less talking. More building.*
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahimijaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=rahimijaz&style=flat-square&color=00b4d8)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimijaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF" />
+
+<br/><br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=rahimijaz&theme=tokyonight&hide_border=true&background=0D1117&ring=C77DFF&fire=FF4D9D&currStreakLabel=C77DFF" />
 
 </div>
+
+---
+
+<!-- ================= ACTIVITY ================= -->
+
+## 🌌 Contribution Journey
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahimijaz&bg_color=0D1117&color=C77DFF&line=9D4EDD&point=FF4D9D&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## 📨 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/muhammad-rahim-ijaz-03a59a2b4">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/rahimijaz">
+<img src="https://img.shields.io/badge/GitHub-Follow-C77DFF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 「 The journey of a thousand lines of code begins with one commit. 」
+
+*Thanks for stopping by. See you in the next commit!*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:54256f,50:241044,100:090014&height=130&section=footer" width="100%" />
 ```
