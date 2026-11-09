@@ -23,7 +23,7 @@
 
 ## 🌙 &nbsp;About Me &nbsp;·&nbsp; 自己紹介
 
-```python
+
 class Rahim:
     def __init__(self):
         self.name = "Muhammad Rahim Ijaz"
@@ -38,7 +38,7 @@ class Rahim:
 
     def motto(self):
         return "Stay curious. Keep building."
-```
+
 
 - 🎓 Studying Artificial Intelligence at **FAST-NUCES**
 - 🤖 Interested in AI, machine learning & computer vision
