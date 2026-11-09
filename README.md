@@ -67,21 +67,19 @@ class Rahim:
 <td width="50%" valign="top">
 
 <h3>👕 personal-wardrobe</h3>
-<p>Organize your clothes, plan outfits, and always know what you own.</p>
-<img src="https://img.shields.io/badge/ADD_YOUR_STACK-6a4cff?style=flat-square" alt="stack" />
-<br/><br/>
+<p>Organize clothes, plan outfits, and track your wardrobe.</p>
+
 <a href="https://github.com/rahimijaz/personal-wardrobe"><img src="https://img.shields.io/badge/Repo-1a1033?style=for-the-badge&logo=github&logoColor=ff9ecd" alt="repo" /></a>
-<a href="https://YOUR-DEMO-LINK.com"><img src="https://img.shields.io/badge/Demo-b388ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="demo" /></a>
+
 
 </td>
 <td width="50%" valign="top">
 
 <h3>📸 family-gallery</h3>
 <p>A private photo gallery to keep and browse family memories.</p>
-<img src="https://img.shields.io/badge/ADD_YOUR_STACK-6a4cff?style=flat-square" alt="stack" />
-<br/><br/>
+
 <a href="https://github.com/rahimijaz/family-gallery"><img src="https://img.shields.io/badge/Repo-1a1033?style=for-the-badge&logo=github&logoColor=ff9ecd" alt="repo" /></a>
-<a href="https://YOUR-DEMO-LINK.com"><img src="https://img.shields.io/badge/Demo-b388ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="demo" /></a>
+
 
 </td>
 </tr>
