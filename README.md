@@ -21,21 +21,30 @@
 
 ---
 
-## 🌸 &nbsp;自己紹介 &nbsp;·&nbsp; Character Profile
+## 🌙 &nbsp;About Me &nbsp;·&nbsp; 自己紹介
 
-<div align="center">
+```python
+class Rahim:
+    def __init__(self):
+        self.name = "Muhammad Rahim Ijaz"
+        self.education = "BS Artificial Intelligence @ FAST-NUCES"
+        self.interests = [
+            "Artificial Intelligence",
+            "Software Engineering",
+            "Web Development",
+            "Computer Vision",
+        ]
+        self.current_goal = "Building meaningful projects"
 
-| 🎴 Stat | 📜 Info |
-|:---:|:---|
-| **Name** | Rahim Ijaz |
-| **Class** | Developer ⚔️ |
-| **Current Quest** | Building **personal-wardrobe** & **family-gallery** |
-| **Now Training** | `[technology you're learning]` |
-| **Power Source** | Coffee ☕ & late-night inspiration 🌙 |
-| **Looking For** | Party members for open-source & side projects 🤝 |
-| **Catchphrase** | *"One more commit, then sleep."* |
+    def motto(self):
+        return "Stay curious. Keep building."
+```
 
-</div>
+- 🎓 Studying Artificial Intelligence at **FAST-NUCES**
+- 🤖 Interested in AI, machine learning & computer vision
+- 💻 Building full-stack applications and experimenting with new technologies
+- 🎨 Interested in creative technology, anime & gaming
+- 🚀 Always learning, experimenting and building something new
 
 ---
 
@@ -43,7 +52,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,git,github,vscode,figma&perline=6&theme=dark" alt="skills" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,react,nextjs,nodejs,ts,js,html,css,git,github,vscode&perline=7&theme=dark" alt="skills" />
 
 </div>
 
