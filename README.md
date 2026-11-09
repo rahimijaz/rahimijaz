@@ -95,7 +95,7 @@ class Rahim:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff9ecd?style=for-the-badge&logo=linkedin&logoColor=1a1033)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff9ecd?style=for-the-badge&logo=linkedin&logoColor=1a1033)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/rahimijaz/))
 [![Twitter](https://img.shields.io/badge/X-b388ff?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR-HANDLE)
 [![Email](https://img.shields.io/badge/Email-6a4cff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1033?style=for-the-badge&logo=googlechrome&logoColor=ff9ecd)](https://YOUR-WEBSITE.com)
