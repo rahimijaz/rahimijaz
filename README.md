@@ -1,100 +1,109 @@
-<!-- Create a repo named exactly "rahimijaz" (public) and put this file in it as README.md -->
+```html
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rahim%20Ijaz&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=18" width="100%" alt="header" />
+# Muhammad Rahim Ijaz
+
+### AI Student · Developer · Builder
+
+*Turning ideas into software that actually matters.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-rahimijaz-181717?style=for-the-badge&logo=github)](https://github.com/rahimijaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammad-rahim-ijaz-03a59a2b4)
+
+</div>
+
+---
+
+## `whoami`
+
+```python
+class Rahim:
+    education = "BS Artificial Intelligence @ FAST-NUCES"
+    interests = ["AI", "Software Engineering", "Computer Vision"]
+    philosophy = "Build things that solve real problems."
+    currently = "Turning ideas into projects."
+```
+
+I enjoy building practical software, experimenting with AI, and exploring how intelligent systems can make everyday experiences better.
+
+---
+
+## `featured projects`
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Rahim+%F0%9F%91%8B;I+build+things+for+the+web;I+love+clean+code+%26+good+design;Open+to+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="https://github.com/rahimijaz/personal-wardrobe">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rahimijaz&repo=personal-wardrobe&theme=tokyonight&hide_border=true" />
 </a>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=rahimijaz&label=Profile%20Views&color=0e75b6&style=flat-square)
-[![Followers](https://img.shields.io/github/followers/rahimijaz?label=Followers&style=flat-square&logo=github&color=2c5364)](https://github.com/rahimijaz?tab=followers)
-[![Stars](https://img.shields.io/github/stars/rahimijaz?label=Stars&style=flat-square&logo=github&color=2c5364)](https://github.com/rahimijaz?tab=repositories)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 Currently working on **[your project here]**
-- 🌱 Currently learning **[technology you're learning]**
-- 🤝 Looking to collaborate on **[open source / side projects]**
-- 💬 Ask me about **[your main skills]**
-- ⚡ Fun fact: **[something memorable about you]**
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,git,github,vscode,figma&perline=6" alt="skills" />
-
-</div>
-
-> Swap the icon list above for your own stack. Full list of icon names: [skillicons.dev](https://skillicons.dev)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahimijaz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimijaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=rahimijaz&theme=tokyonight&hide_border=true" alt="streak" />
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/rahimijaz/YOUR-REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahimijaz&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true" alt="project 1" />
-</a>
-<a href="https://github.com/rahimijaz/YOUR-REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahimijaz&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true" alt="project 2" />
+<a href="https://github.com/rahimijaz/family-gallery">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rahimijaz&repo=family-gallery&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
-> Replace `YOUR-REPO-1` and `YOUR-REPO-2` with your actual repository names.
+### 👕 Personal Wardrobe
+
+**Your wardrobe. Your style. Your privacy.**
+
+A personal virtual wardrobe project exploring AI-powered virtual try-on and digital clothing experiences.
+
+- 👔 Virtual clothing & wardrobe management
+- 🤖 AI-powered virtual try-on experimentation
+- 🔒 Privacy-focused, local-first approach
+
+[**Explore Repository →**](https://github.com/rahimijaz/personal-wardrobe)
+
+### 🖼️ Family Gallery
+
+**Your memories. Organized intelligently.**
+
+An AI-powered family photo organizer designed to make managing and discovering personal memories easier.
+
+- 🧠 AI-powered face detection & clustering
+- 🔍 Intelligent photo organization and filtering
+- 🔐 Privacy-first local photo management
+- 📱 Responsive gallery with slideshow & zoom
+
+[**Explore Repository →**](https://github.com/rahimijaz/family-gallery)
 
 ---
 
-## 🏆 Contribution Graph
+## `tech stack`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahimijaz&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## `github stats`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-WEBSITE.com)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rahimijaz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimijaz&layout=compact&theme=tokyonight&hide_border=true" />
 
-*⭐ If you like what you see, drop a star on one of my repos!*
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahimijaz&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+---
+
+<div align="center">
+
+### *Less talking. More building.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=rahimijaz&style=flat-square&color=00b4d8)
+
+</div>
+```
